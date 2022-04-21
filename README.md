@@ -84,3 +84,4 @@ Once the Deployment has completed, you can verify the application is working cor
 	- Click "Add webhook"
 - The result of this configuration will trigger a new build run on Openshift as soon as new code gets committed into the repository.
 
+ 
