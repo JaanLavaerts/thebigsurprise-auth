@@ -1,4 +1,4 @@
-FROM  quay.io/jitesoft/node
+FROM quay.io/jitesoft/node
 
 WORKDIR /usr/src/app
 COPY package.json ./
